@@ -1,28 +1,40 @@
-name: BetterAgents
 favicon: null
-layout_spectrum: 0.6642145907972008
-typography_spectrum: 0.7518005673773587
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: BetterAgents
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.14642149372957647
-  lightness: 0.9445378873497248
-  saturation: 0.9937388505786657
-  rhythmicContrast: 0.18719345494173467
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.9937388505786657
+  brandStrength: 0.1464214937295765
+  lightness: 0.9445378873497248
+  brandColors:
+    - '#FFFFFF'
+    - '#050604'
+    - '#BDBDBD'
+    - '#4A9A55'
+    - '#B4786D'
+  rhythmicContrast: 0.1871934549417347
+typography_spectrum: 0.7518005673773587
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.6642145907972008
+analytics:
+  twitter: null
+  google: null
+  facebook: null
