@@ -1,0 +1,28 @@
+name: BetterAgents
+favicon: null
+layout_spectrum: 0.6642145907972008
+typography_spectrum: 0.7518005673773587
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.14642149372957647
+  lightness: 0.9445378873497248
+  saturation: 0.9937388505786657
+  rhythmicContrast: 0.18719345494173467
+purpose: []
