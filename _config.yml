@@ -1,4 +1,5 @@
-layout_spectrum: 0.9141604
+favicon: null
+name: BetterAgents
 opengraph:
   image: null
   type: null
@@ -26,13 +27,12 @@ color:
     - '#BCE9B5'
   rhythmicContrast: 0.5004664
 typography_spectrum: 0.7518005673773587
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: BetterAgents
+cta:
+  bucket: null
+  version: null
+  domain: null
