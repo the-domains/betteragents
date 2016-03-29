@@ -1,5 +1,4 @@
-favicon: null
-name: BetterAgents
+layout_spectrum: 0.9141604
 opengraph:
   image: null
   type: null
@@ -10,29 +9,30 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.9937388505786657
-  brandStrength: 0.8903509
-  lightness: 0.9445378873497248
+  saturation: 0.4972015
+  brandStrength: 0.1823694
+  lightness: 0.5023321
   brandColors:
     - '#5CA34A'
     - '#F2FFF3'
     - '#BCE9B5'
-  rhythmicContrast: 0.1871934549417347
+  rhythmicContrast: 0.5004664
 typography_spectrum: 0.7518005673773587
-layout_spectrum: 0.9141604
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: BetterAgents
